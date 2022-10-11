@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi 👋, I'm Hussein Kizz</h1>
-<h3 align="center">A Tech Entrepreneur And Passionate Senior Frontend Engineer From Uganda.</h3>
+<h3 align="center">A Tech Entrepreneur And Passionate Software Developer.</h3>
 
 <p align="center"> <a href="https://twitter.com/husseinkizz" target="blank"><img src="https://img.shields.io/twitter/follow/husseinkizz?logo=twitter&style=for-the-badge" alt="husseinkizz" /></a> </p>
 
@@ -9,21 +9,19 @@
 
 - 🔭 I’m currently working on [Serato CSS](https://github.com/Hussseinkizz/serato-css)
 
-- 🌱 I’m currently learning **The MERN stack, Micro Services Architecture & JamStack!**
+- 🌱 I’m currently learning **The MERN stack, Micro Services Architecture & Mastering The JamStack!**
 
-- 👯 I’m hoping to collaborate on [Open Props](https://github.com/argyleink/open-props)
+- 🤝 I’m looking for senior frontend developer roles, fullstack developer roles and remote based roles!
 
-- 🤝 I’m looking for help with [Serato CSS](https://github.com/Hussseinkizz/serato-css)
+- 👨‍💻 You can check out my develpment Vscode setup at [https://howivscode.com/Hussseinkizz](https://howivscode.com/Hussseinkizz)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hussseinkizz](https://github.com/Hussseinkizz)
-
-- 💬 Ask me about **React, CSS, Sass, Saas, Next Js, And Figma!**
+- 💬 Ask me about **startups, tech, UX, software architecture, books, stoicism and graphics design**
 
 - 📫 How to reach me **hssnkizz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=1Z0MJlRVUPpEoYwq_E58Y7dkhxyx09JCA&authuser=hssnkizz%40gmail.com&usp=drive_fs](https://drive.google.com/open?id=1Z0MJlRVUPpEoYwq_E58Y7dkhxyx09JCA&authuser=hssnkizz%40gmail.com&usp=drive_fs)
+- 📄 Know about my experiences [View And Download My Resume Pdf](https://drive.google.com/file/d/1_w8dBUgxMCp7xdwEl2DEi36opfL-pYZD/view?usp=sharing)
 
-- ⚡ Fun fact **I am left handed but can use the mouse with both hands easily, yet I can't use scissors at all!!!!**
+- ⚡ Fun fact **I can code websites and apps from dusk to dawn, but I can't sustain a 5 secs chit chat!!!!**
 
 <td >
 <a href="https://app.daily.dev/husseinkizz"><img src="https://api.daily.dev/devcards/3aefd54026734a7fa37aeba1ef8f3536.png?r=5cz" width="400" alt="Hussein Kizz's Dev Card"/></a>
