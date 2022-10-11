@@ -34,7 +34,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussseinkizz&show_icons=true&locale=en&layout=compact" alt="hussseinkizz" /></p> -->
 
-<table>
+<!-- <table>
 <tr >
   <td valign="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussseinkizz&show_icons=true&locale=en" alt="hussseinkizz" /></p>
@@ -43,7 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussseinkizz&" alt="hussseinkizz" /></p>
 </td>
 </tr>
-</table>
+</table> -->
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussseinkizz" alt="hussseinkizz" /></a> </p> -->
 
