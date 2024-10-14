@@ -23,7 +23,7 @@
 
 I’m an internet-raised techie and generalist with an insane passion for software engineering, design, startups, open source, and dev communities. I have an endless love for learning, exploring, and creating new things. 🚀 Try me out!
 
----
+
 
 ### **I Do Care and Am Interested In:**
 
@@ -34,7 +34,7 @@ I’m an internet-raised techie and generalist with an insane passion for softwa
 - 🧰 Dev Tools & Related Projects
 - 🎉 Anything Fun & Exciting!
 
----
+
 
 ### **My Hobbies Though:**
 
@@ -43,7 +43,7 @@ I’m an internet-raised techie and generalist with an insane passion for softwa
 - 🧘‍♂️ Stoic Philosophy
 - 🎶 Music (yes, any genre does it, including Lofi!)
 
----
+
 
 ### **I Love This Too:**
 
@@ -62,7 +62,7 @@ I’m an internet-raised techie and generalist with an insane passion for softwa
 
 … long list here but you get it 😉
 
----
+
 
 ### **One More Thing:**
 
@@ -70,7 +70,7 @@ I’m an internet-raised techie and generalist with an insane passion for softwa
 - 🖥️ For my terminal setup, I use Zsh + Zap plugins, and then I swing in Warp for a super-intelligent experience. 🤓
 - 🍽️ I eat JavaScript for breakfast, though it’s still working its way under my belt. Also, check out my framework: [Z-JS Framework](https://github.com/Z-Js-Framework/z-js)
 
----
+
 
 ### **Let’s Connect:**
 
