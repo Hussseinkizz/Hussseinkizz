@@ -1,22 +1,7 @@
-<h1 align="center">👨‍💻 About Me</h1>
+<h1 align="left">👨‍💻 About Me</h1>
 <!--<h3 align="center"># Senior Engineer && Tech Entrepreneur.</h3>-->
 
 <!--<p align="center"> <a href="https://twitter.com/hussein_kizz" target="blank"><img src="https://img.shields.io/twitter/follow/hussein_kizz?logo=twitter&style=for-the-badge" alt="husseinkizz" /></a> </p>-->
-<p align="center">
-<a href="https://www.buymeacoffee.com/Husseinkizz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" width="150" height="30"/></a>
-<a href="https://codepen.io/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="husseinkizz" height="30" width="40" /></a>
-<a href="https://dev.to/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="husseinkizz" height="30" width="40" /></a>
-<a href="https://twitter.com/hussein_kizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseinkizz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/husseinkizz-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husseinkizz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="husseinkizz" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hussseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hussseinkizz" height="30" width="40" /></a>
-<a href="https://instagram.com/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="husseinkizz" height="30" width="40" /></a>
-<a href="https://dribbble.com/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="husseinkizz" height="30" width="40" /></a>
-<a href="https://www.behance.net/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="husseinkizz" height="30" width="40" /></a>
-<a href="https://hashnode.com/@husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@husseinkizz" height="30" width="40" /></a>
-<a href="https://medium.com/@husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@husseinkizz" height="30" width="40" /></a>
-</p>
-
 <table>
 <tr>
   <td valign="center">
@@ -29,6 +14,7 @@ I’m an internet-raised techie and generalist with an insane passion for softwa
 
 - 🧑‍💻 Senior Dev Roles
 - 🛠️ Engineering Management
+- 🕵️ Consultation And Mentoring
 - 🌐 Dev Relations And Dev Communities
 - 💻 Open Source, Open Source, And Open Source!!!
 - 🧰 Dev Tools & Related Projects
@@ -78,12 +64,27 @@ I’m an internet-raised techie and generalist with an insane passion for softwa
 - 🛠️ Skype: live:.cid.cf171fc04e32f958
 - 🐙 GitHub: [Hussseinkizz](https://github.com/Hussseinkizz)
 - 🌍 Social media: `@Husseinkizz` (or similar variants) on most platforms—LinkedIn, X, etc.
-- ☕ Buy me a coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/Husseinkizz) — if you like 😊
+- ☕ I really like coffee, — if you like it too 😊 : <a href="https://www.buymeacoffee.com/Husseinkizz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" width="150" height="30"/></a>
 
-Feel free to reach out for collaboration or just to chat. I enjoy making friends with internet strangers—provided they’re not scammers! 🤖  
+Feel free to reach out for collaboration or just to chat. I enjoy making friends with internet strangers no scammers though!  
      </td>               
 <!-- <td >
 <a href="https://app.daily.dev/husseinkizz"><img src="https://api.daily.dev/devcards/3aefd54026734a7fa37aeba1ef8f3536.png?r=5cz" width="400" alt="Hussein Kizz's Dev Card"/></a>
 </td> -->
 </tr>
 </table>
+<!-- <p align="left">
+<a href="https://www.buymeacoffee.com/Husseinkizz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" width="150" height="30"/></a>
+<a href="https://codepen.io/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="husseinkizz" height="30" width="40" /></a>
+<a href="https://dev.to/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="husseinkizz" height="30" width="40" /></a>
+<a href="https://twitter.com/hussein_kizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseinkizz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/husseinkizz-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husseinkizz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="husseinkizz" height="30" width="40" /></a>
+<a href="https://codesandbox.com/hussseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hussseinkizz" height="30" width="40" /></a>
+<a href="https://instagram.com/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="husseinkizz" height="30" width="40" /></a>
+<a href="https://dribbble.com/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="husseinkizz" height="30" width="40" /></a>
+<a href="https://www.behance.net/husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="husseinkizz" height="30" width="40" /></a>
+<a href="https://hashnode.com/@husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@husseinkizz" height="30" width="40" /></a>
+<a href="https://medium.com/@husseinkizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@husseinkizz" height="30" width="40" /></a>
+</p> -->
+
