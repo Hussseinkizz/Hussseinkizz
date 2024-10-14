@@ -21,32 +21,67 @@
 <tr>
   <td valign="center">
 
-<!-- - 🔭 I’m currently working on [A Bunch of Projects!](http://github.com/Hussseinkizz?tab=repositories) -->
+I’m an internet-raised techie and generalist with an insane passion for software engineering, design, startups, open source, and dev communities. I have an endless love for learning, exploring, and creating new things. 🚀 Try me out!
 
-- 💙  Above everything I love and enjoy making and doing awesome things for the developer community, I like making the space better for everyone than how I found it, changing lives and solving problems.
+---
 
-- 🧠  I'm a quick learner and so currently am learning Some More JavaScript, then Rust, Python, Go, C, Cloud Engineering, System Design, APIs Development, some Cryptography and also lately interested in Sorting Algorithms!
+### **I Do Care and Am Interested In:**
 
-- 🤝 I’m open to senior roles, collaborating on Developer tools or related projects and services, open source, micro-saas, enterprise projects and well anything fun and exciting!
+- 🧑‍💻 Senior Dev Roles
+- 🛠️ Engineering Management
+- 🌐 Dev Relations And Dev Communities
+- 💻 Open Source, Open Source, And Open Source!!!
+- 🧰 Dev Tools & Related Projects
+- 🎉 Anything Fun & Exciting!
 
-- 👨‍💻 I like fancy, faster and better things, so yes I spend more time customizing my workflows, terminals and what not, and you can check out my development Vscode setup at [https://howivscode.com/Hussseinkizz](https://howivscode.com/Hussseinkizz)
+---
 
-- 💬 Ask me about startups, tech, UX, software architecture and design, books, stoic philosophy and design in general.
+### **My Hobbies Though:**
 
-- 📫 How to reach me, mail me at **hssnkizz@gmail.com**
+- ♟️ Board Games (Chess, Checkers)
+- 📚 Self-Help Books
+- 🧘‍♂️ Stoic Philosophy
+- 🎶 Music (yes, any genre does it, including Lofi!)
 
-- 📄 Know about my social life, am `@Husseinkizz` or similar variants on all platforms.
+---
 
-- 😼 Shameless Brag: I eat **JavaScript** for breakfast, drink it for lunch and eat it again for supper, then sufffer with its bugs like I know nothing at all...
+### **I Love This Too:**
 
-- ⚡ Spoiler Alert, I tend to seem to be doing a lot of things and yet I also look very younger than I am actually, but it's not a bug, you will pretty soon get used to it, so please don't worry about it, am ok just grew up mentally a bit early maybe!!!
+- 💻 JavaScript & Typescript
+- 🐍 Python
+- 🚀 Go
+- 🔧 C
+- 🔥 Erlang, Elixir, Lua, Rust, Kotlin, Solidity.
+- 📐 Functional & Dynamic Programming
+- 📊 Category & Graph Theory
+- ☁️ Cloud Engineering & DevOps
+- 🏛️ System Design & Architecture
+- 🌐 API Design & Development
+- 🧩 Sorting, Heuristic, And Greedy Algorithms
+- 🔐 Cryptography
 
-- 🦄 **Technologies Am Interested In:**
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-                    </p>
-                    
-                    
+… long list here but you get it 😉
+
+---
+
+### **One More Thing:**
+
+- 🎨 I like making my workflow super cool, productive, and fancy. Check out my VS Code setup: [VS Code Setup](https://howivscode.com/Hussseinkizz)
+- 🖥️ For my terminal setup, I use Zsh + Zap plugins, and then I swing in Warp for a super-intelligent experience. 🤓
+- 🍽️ I eat JavaScript for breakfast, though it’s still working its way under my belt. Also, check out my framework: [Z-JS Framework](https://github.com/Z-Js-Framework/z-js)
+
+---
+
+### **Let’s Connect:**
+
+- 📧 Email: [hssnkizz@gmail.com](mailto:hssnkizz@gmail.com)
+- 🛠️ Skype: live:.cid.cf171fc04e32f958
+- 🐙 GitHub: [Hussseinkizz](https://github.com/Hussseinkizz)
+- 🌍 Social media: `@Husseinkizz` (or similar variants) on most platforms—LinkedIn, X, etc.
+- ☕ Buy me a coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/Husseinkizz) — if you like 😊
+
+Feel free to reach out for collaboration or just to chat. I enjoy making friends with internet strangers—provided they’re not scammers! 🤖  
+     </td>               
 <!-- <td >
 <a href="https://app.daily.dev/husseinkizz"><img src="https://api.daily.dev/devcards/3aefd54026734a7fa37aeba1ef8f3536.png?r=5cz" width="400" alt="Hussein Kizz's Dev Card"/></a>
 </td> -->
