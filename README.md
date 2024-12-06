@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 About Me</h1>
+<h1 align="left">👨‍💻 About</h1>
 <!--<h3 align="center"># Senior Engineer && Tech Entrepreneur.</h3>-->
 
 <!--<p align="center"> <a href="https://twitter.com/hussein_kizz" target="blank"><img src="https://img.shields.io/twitter/follow/hussein_kizz?logo=twitter&style=for-the-badge" alt="husseinkizz" /></a> </p>-->
@@ -6,7 +6,7 @@
 <tr>
   <td valign="center">
 
-I’m an internet-raised techie and generalist with an insane passion for software engineering, design, startups, open source, and dev communities with an endless love for learning, exploring, and creating new things. 🚀 Try me out!
+Internet-raised techie and generalist passionate about software engineering, design, startups, open source, and dev communities. Addicted to learning, exploring, breaking, and creating things. 🚀 100 At A time!
 
 
 <!--
@@ -63,9 +63,9 @@ I’m an internet-raised techie and generalist with an insane passion for softwa
 - 📧 Email: [hssnkizz@gmail.com](mailto:hssnkizz@gmail.com)
 - 🐙 GitHub: [Hussseinkizz](https://github.com/Hussseinkizz)
 - 🌍 Social media: `@Husseinkizz` (or similar variants) on most platforms—LinkedIn, X, etc.
-- ☕ I really like coffee, — if you like it too 😊 : <a href="https://www.buymeacoffee.com/Husseinkizz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" width="150" height="30"/></a>
+- ☕ I really like coffee, — if you like my works 😊 : <a href="https://www.buymeacoffee.com/Husseinkizz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" width="150" height="30"/></a>
 
-Feel free to reach out for collaboration or just to chat. I enjoy making friends with internet strangers no scammers though!  
+Open for collabs, consultation, work, friends, chatting, and anything fun!  
      </td>               
 <!-- <td >
 <a href="https://app.daily.dev/husseinkizz"><img src="https://api.daily.dev/devcards/3aefd54026734a7fa37aeba1ef8f3536.png?r=5cz" width="400" alt="Hussein Kizz's Dev Card"/></a>
