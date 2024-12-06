@@ -6,10 +6,10 @@
 <tr>
   <td valign="center">
 
-I’m an internet-raised techie and generalist with an insane passion for software engineering, design, startups, open source, and dev communities. I have an endless love for learning, exploring, and creating new things. 🚀 Try me out!
+I’m an internet-raised techie and generalist with an insane passion for software engineering, design, startups, open source, and dev communities with an endless love for learning, exploring, and creating new things. 🚀 Try me out!
 
 
-
+<!--
 ### **I Do Care and Am Interested In:**
 
 - 🧑‍💻 Senior Dev Roles
@@ -56,12 +56,11 @@ I’m an internet-raised techie and generalist with an insane passion for softwa
 - 🖥️ For my terminal setup, I use Zsh + Zap plugins, and then I swing in Warp for a super-intelligent experience. 🤓
 - 🍽️ I eat JavaScript for breakfast, though it’s still working its way under my belt. Also, check out my framework: [Z-JS Framework](https://github.com/Z-Js-Framework/z-js)
 
-
+-->
 
 ### **Let’s Connect:**
 
 - 📧 Email: [hssnkizz@gmail.com](mailto:hssnkizz@gmail.com)
-- 🛠️ Skype: live:.cid.cf171fc04e32f958
 - 🐙 GitHub: [Hussseinkizz](https://github.com/Hussseinkizz)
 - 🌍 Social media: `@Husseinkizz` (or similar variants) on most platforms—LinkedIn, X, etc.
 - ☕ I really like coffee, — if you like it too 😊 : <a href="https://www.buymeacoffee.com/Husseinkizz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" width="150" height="30"/></a>
