@@ -61,6 +61,7 @@ Internet-raised techie and generalist passionate about software engineering, des
 ### **Let’s Connect:**
 
 - 📧 Mail Me: [hssnkizz@gmail.com](mailto:hssnkizz@gmail.com)
+- 🎦 Book A Call: [https://cal.com/husseinkizz](https://cal.com/husseinkizz)
 - 🐙 Share GitHub: [Hussseinkizz](https://github.com/Hussseinkizz)
 - 🌍 Let's Connect: `@Husseinkizz` (or similar variants) on most platforms—LinkedIn, X, etc.
 <!-- - ☕ I really like coffee, — if you like my works 😊 : <a href="https://www.buymeacoffee.com/Husseinkizz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" width="150" height="30"/></a> -->
