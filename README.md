@@ -6,7 +6,7 @@
 <tr>
   <td valign="center">
 
-Internet-raised techie and generalist passionate about software engineering, design, startups, open source, and dev communities. Addicted to learning, exploring, breaking, and creating things. 🚀 100 At A time!
+Internet-raised techie and generalist passionate about software engineering, design, startups, open source, applied AI, AI safety and dev communities. Addicted to learning, exploring, breaking, and creating things. 🚀 100 At A time!
 
 
 <!--
